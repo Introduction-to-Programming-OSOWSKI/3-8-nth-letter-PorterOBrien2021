@@ -1,6 +1,6 @@
 def nthLetter(w, x):
     if x <= len(w):
-        return w[x-1]
+        return w[x]
 
     else:
         return False
